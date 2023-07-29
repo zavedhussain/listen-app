@@ -2,7 +2,7 @@ import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import axios from "axios";
 import { toast } from "react-toastify";
 
-const url = "http://localhost:3000/api/v1";
+const url = "https://listen-app-api-n3ia.onrender.com/api/v1";
 
 //initial filter params
 const initialFiltersState = {
