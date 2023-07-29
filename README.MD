@@ -18,7 +18,7 @@ Record your listening level and keep track of your progress. After a meeting or 
 
 - Provides API endpoint for storing, creating as well as deleting listening level data.
 
-- User authectication and authorization done using JWT tokens.
+- User authentication and authorization done using JWT tokens.
 
 - Error handling with custom classes.
 
