@@ -2,7 +2,7 @@
 
 LISTEN is a listening level recording app.
 
-Check [Live Demo](https://listen-app.onrender.com)
+Check [Live Demo](https://listen-app.onrender.com) (The app may take some time to load for first time as render puts inactive apps to sleep)
 
 [Backend](https://listen-app-api-n3ia.onrender.com/api/v1/listenings)
 
