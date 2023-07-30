@@ -47,8 +47,15 @@ const Wrapper = styled.section`
   margin: 0 auto;
   .listenings {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: 1fr;
     gap: 2rem;
+  }
+
+  @media (min-width: 992px) {
+    .listenings {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+    }
   }
 `;
 
