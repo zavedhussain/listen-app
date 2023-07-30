@@ -2,9 +2,9 @@
 
 LISTEN is a listening level recording app.
 
-Check [Live Demo](https://listen-app.onrender.com)
+Check [Live Demo](https://listen-app.onrender.com) (The app may take some time to load for first time as render puts inactive apps to sleep)
 
-[Backend](https://listen-app-api-n3ia.onrender.com/api/v1/auth/listenings)
+[Backend](https://listen-app-api-n3ia.onrender.com/api/v1/listenings)
 
 Record your listening level and keep track of your progress. After a meeting or before going to sleep, note down your level of listening as well the record the details of your emotions.
 
